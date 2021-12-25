@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "polyutils",
+  "version": "0.1.0",
+  "name": "Poly Utils",
+  "description": "A bunch of utility mods, primarily for development",
+  "authors": [
+    "dfsek"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.7.4"
+  }
+}
